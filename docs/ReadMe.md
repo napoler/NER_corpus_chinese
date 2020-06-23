@@ -12,3 +12,5 @@
 
 不应公开传播的垂直域NER语料：
 + CCKS2017电子病历实体标注：
+
+https://www.kaggle.com/terry777/ner-data
