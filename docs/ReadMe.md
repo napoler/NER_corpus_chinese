@@ -12,5 +12,6 @@
 
 不应公开传播的垂直域NER语料：
 + CCKS2017电子病历实体标注：
+https://github.com/napoler/CCKS-2017-task2
 
 https://www.kaggle.com/terry777/ner-data
